@@ -1,0 +1,45 @@
+{
+    "name": "aku-extensions-pack",
+    "displayName": "aku vscode extensions pack",
+    "description": "Extensions pack for aku FE development",
+    "version": "0.0.1",
+    "publisher": "akulaku",
+    "icon": "logo.png",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/haolee2021/aku-extension-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/haolee2021/aku-extension-pack/issues"
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#fafafa",
+        "theme": "light"
+    },
+    "extensionPack": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "coenraads.bracket-pair-colorizer",
+        "mkxml.vscode-filesize",
+        "streetsidesoftware.code-spell-checker",
+        "zignd.html-css-class-completion",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "ms-ceintl.vscode-language-pack-zh-hans",
+        "dbaeumer.vscode-eslint",
+        "vscode-icons-team.vscode-icons",
+        "formulahendry.code-runner",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "xabikos.reactsnippets",
+        "octref.vetur",
+        "oysun.vuehelper"
+    ]
+}
